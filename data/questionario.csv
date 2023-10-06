@@ -1,0 +1,31 @@
+,1,2,3,4,5,6,7,8,9,10,11.1,11.2,11.3,11.4,11.5,11.6,11.7,11.8,11.9,11.10
+p2 a,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,moderada,só conheço,só conheço,só conheço,só conheço,só conheço,só conheço,só conheço,só conheço,só conheço,só conheço
+p2 a,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,urgente,só conheço,só conheço,só conheço,só conheço,possuo,só conheço,só conheço,só conheço,só conheço,só conheço
+p2 a,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,moderada,só conheço,só conheço,só conheço,só conheço,só conheço,possuo,só conheço,só conheço,só conheço,só conheço
+p2 a,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,moderada,só conheço,só conheço,possuo,possuo,possuo,possuo,só conheço,só conheço,só conheço,não conheço
+p2 a,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,urgente,só conheço,só conheço,possuo,só conheço,possuo,só conheço,só conheço,só conheço,só conheço,só conheço
+p2 a,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,urgente,só conheço,não conheço,só conheço,só conheço,só conheço,só conheço,só conheço,só conheço,possuo,só conheço
+p2 a,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,urgente,só conheço,não conheço,só conheço,não conheço,só conheço,só conheço,não conheço,só conheço,só conheço,só conheço
+p2 a,TRUE,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,urgente,possuo,só conheço,só conheço,só conheço,só conheço,só conheço,possuo,só conheço,possuo,só conheço
+p2 a,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,urgente,só conheço,não conheço,só conheço,só conheço,só conheço,só conheço,não conheço,só conheço,só conheço,só conheço
+p2 a,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,moderada,só conheço,só conheço,só conheço,só conheço,só conheço,possuo,possuo,só conheço,só conheço,só conheço
+p2 a,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,moderada,só conheço,não conheço,só conheço,possuo,só conheço,só conheço,só conheço,só conheço,só conheço,só conheço
+p2 a,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,urgente,não conheço,só conheço,só conheço,só conheço,só conheço,possuo,possuo,só conheço,só conheço,só conheço
+p2 a,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,moderada,só conheço,não conheço,possuo,só conheço,não conheço,só conheço,não conheço,só conheço,só conheço,não conheço
+p2 a,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,urgente,só conheço,só conheço,só conheço,só conheço,só conheço,só conheço,não conheço,só conheço,só conheço,não conheço
+p2 a,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,urgente,só conheço,só conheço,só conheço,só conheço,possuo,possuo,só conheço,só conheço,possuo,só conheço
+p2 a,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,urgente,só conheço,só conheço,só conheço,só conheço,só conheço,só conheço,não conheço,só conheço,só conheço,não conheço
+p2 a,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,urgente,só conheço,só conheço,possuo,só conheço,só conheço,só conheço,só conheço,só conheço,só conheço,só conheço
+p2 a,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,urgente,só conheço,não conheço,só conheço,só conheço,só conheço,só conheço,só conheço,só conheço,só conheço,só conheço
+p2 a,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,urgente,só conheço,não conheço,só conheço,só conheço,só conheço,só conheço,não conheço,só conheço,só conheço,não conheço
+p2 a,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,moderada,só conheço,não conheço,possuo,só conheço,só conheço,só conheço,só conheço,só conheço,só conheço,só conheço
+p2 a,TRUE,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,urgente,não conheço,não conheço,só conheço,só conheço,só conheço,só conheço,só conheço,não conheço,só conheço,não conheço
+p2 a,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,urgente,só conheço,não conheço,possuo,não conheço,só conheço,só conheço,não conheço,só conheço,não conheço,só conheço
+p2 a,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,urgente,não conheço,não conheço,só conheço,só conheço,só conheço,só conheço,não conheço,só conheço,só conheço,não conheço
+p2 a,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,urgente,só conheço,só conheço,possuo,não conheço,só conheço,só conheço,só conheço,só conheço,só conheço,não conheço
+p2 a,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,moderada,possuo,possuo,possuo,só conheço,possuo,possuo,possuo,só conheço,possuo,possuo
+p2 a,TRUE,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,moderada,só conheço,só conheço,só conheço,só conheço,só conheço,só conheço,só conheço,só conheço,possuo,só conheço
+p2 a,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,moderada,só conheço,não conheço,só conheço,só conheço,só conheço,possuo,só conheço,só conheço,só conheço,só conheço
+p2 a,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,moderada,só conheço,só conheço,só conheço,só conheço,só conheço,só conheço,não conheço,só conheço,só conheço,não conheço
+p2 a,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,urgente,só conheço,só conheço,só conheço,só conheço,só conheço,só conheço,só conheço,só conheço,só conheço,só conheço
+p2 a,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,moderada,só conheço,só conheço,só conheço,possuo,possuo,possuo,não conheço,só conheço,só conheço,só conheço
