@@ -34,4 +34,4 @@ streamlit run ynara-tcc/main.py
 
 ## Dúvidas ou Assistência
 
-Se você tiver alguma dúvida, precisar de assistência ou desejar entrar em contato conosco sobre este projeto, não hesite em nos enviar um e-mail em [seu@email.com].
+Se você tiver alguma dúvida, precisar de assistência ou desejar entrar em contato conosco sobre este projeto, não hesite em nos enviar um e-mail em gabriel.borsero@gmail.com.
