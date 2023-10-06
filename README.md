@@ -29,7 +29,7 @@ poetry shell
 Inicie o painel usando o Streamlit:
 
 ```
-streamlit run ynara-tcc/main.py
+streamlit run Introdução.py
 ```
 
 ## Dúvidas ou Assistência
